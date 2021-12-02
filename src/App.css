@@ -36,3 +36,135 @@
     transform: rotate(360deg);
   }
 }
+
+/* Login */
+.ui.form .field>label{
+  padding-top: 16px;
+}
+.ui.container.login-form{
+    width:527px;
+    padding-top: 5%;
+  }
+
+.left-nav{
+  width: 15%;
+  float: left;
+}
+.link{
+  padding-top: 2%;
+}
+.link-reg {
+  color: #4183c4;
+  text-decoration: none;
+  font-size: initial;
+  padding-top: 100px;
+}
+.link-forget {
+  color: #4183c4;
+  text-decoration: none;
+  font-size: initial;
+  float: right;
+}
+
+/* Dashboard  */
+
+.tables{
+  width: 80%;
+  float: left;
+  padding-left: 5%;
+}
+.table-admin{
+  width: 80%;
+  float: left;
+  padding-left: 15%;
+}
+.table-heading{
+  font-size: 20px;
+}
+.table-head{
+  font-size: medium;
+}
+.table-cell{
+  font-size: medium;
+}
+.search{
+  float: right;
+}
+.admin-search.input{
+  float:right;
+    width:20%;
+}
+.admin-btn{
+  float: left;
+}
+.ui.button.admin-station{
+  margin-top: 3%;
+  float: left;
+}
+.search-div{
+    float:right;
+    width:40%;
+    padding-bottom: 5%;
+    padding-top: 1%;
+}
+.search-admin{
+  width:100%;
+  padding-bottom: 5%;
+  padding-top: 1%;
+}
+.station-btn{
+  color:red;
+  width:100%;
+  float: left;
+}
+.ui.pagination.menu{
+  float:right
+}
+
+/* Header */
+.top-menu.ui.menu{
+background-color: #f9fafb;
+}
+.menu-text{
+  width: 100%;
+}
+.ui.menu .item.header-text{
+  font-size: 15px;
+    color: blue;
+}
+.ui.item.menu .item{
+  padding-top:1%;
+  padding-bottom:1%;
+}
+.top-menu{
+  padding: 10px;
+}
+
+/* Journey */
+.ui.fluid.dropdown.city-dropdown{
+  width:30%;
+  float: left;
+}
+.select-div{
+    padding-top: 3%;
+    padding-right: 1.5%;
+    width: 60%;
+    float: right;
+}
+.ui.fluid.dropdown.city-dropdown {
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+}
+.day-picker-div{
+  width: 100%;
+  float: right;
+  padding-left: 16%;
+}
+.input{
+    width: 50%;
+    line-height: 5;
+}
+.reserv-btn{
+  padding-top: 2%;
+}

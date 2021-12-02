@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "email": "admin@fake.com",
+      "password": "admin"
+    },
+    {
+      "id": 1,
+      "email": "fake1@gmail.com",
+      "phone": "1234567890",
+      "password": "fake1"
+    },
+    {
+      "email": "fake2@gmail.com",
+      "phone": "1233211231",
+      "password": "121212",
+      "id": 2
+    },
+    {
+      "email": "fake3@gmail.com",
+      "phone": "147",
+      "password": "12",
+      "id": 3
+    }
+  ],
+  "states": [
+    {
+      "key": "Indore",
+      "value": "Indore",
+      "flag": "Indore",
+      "text": "Indore",
+      "id": 1
+    },
+    {
+      "key": "Mumbai",
+      "value": "Mumbai",
+      "flag": "Mumbai",
+      "text": "Mumbai",
+      "id": 2
+    },
+    {
+      "key": "Delhi",
+      "value": "Delhi",
+      "flag": "Delhi",
+      "text": "Delhi",
+      "id": 3
+    },
+    {
+      "key": "Amritsar",
+      "value": "Amritsar",
+      "flag": "Amritsar",
+      "text": "Amritsar",
+      "id": 4
+    }
+  ],
+  "reservation": [
+    {
+      "source": "Albania",
+      "destination": "American Samoa",
+      "date": "2021-12-03",
+      "user": "fake2@gmail.com",
+      "id": 5
+    },
+    {
+      "source": "Afghanistan",
+      "destination": "American Samoa",
+      "date": "2021-12-04",
+      "user": "fake2@gmail.com",
+      "id": 6
+    },
+    {
+      "source": "Albania",
+      "destination": "Aland Islands",
+      "date": "2021-12-03",
+      "user": "fake2@gmail.com",
+      "id": 7
+    },
+    {
+      "source": "Albania",
+      "destination": "Andorra",
+      "date": "2021-12-04",
+      "user": "fake2@gmail.com",
+      "id": 8
+    },
+    {
+      "source": "Albania",
+      "destination": "Algeria",
+      "date": "2021-12-14",
+      "user": "fake3@gmail.com",
+      "id": 9
+    },
+    {
+      "source": "Algeria",
+      "destination": "Algeria",
+      "date": "2021-12-21",
+      "user": "fake3@gmail.com",
+      "id": 10
+    },
+    {
+      "source": "Algeria",
+      "destination": "Algeria",
+      "date": "2021-12-16",
+      "user": "fake3@gmail.com",
+      "id": 11
+    },
+    {
+      "source": "Albania",
+      "destination": "Azerbaijan",
+      "date": "2021-12-02",
+      "user": "fake2@gmail.com",
+      "id": 12
+    },
+    {
+      "source": "Bangladesh",
+      "destination": "Austria",
+      "date": "2021-12-21",
+      "user": "fake2@gmail.com",
+      "id": 15
+    },
+    {
+      "source": "Angola",
+      "destination": "Afghanistan",
+      "date": "2021-12-15",
+      "user": "fake2@gmail.com",
+      "id": 16
+    },
+    {
+      "source": "Algeria",
+      "destination": "Albania",
+      "date": "2021-12-03",
+      "user": "fake2@gmail.com",
+      "id": 17
+    },
+    {
+      "source": "American Samoa",
+      "destination": "Algeria",
+      "date": "2021-12-02",
+      "user": "fake2@gmail.com",
+      "id": 18
+    },
+    {
+      "source": "Amritsar",
+      "destination": "Delhi",
+      "date": "2021-12-21",
+      "user": "fake2@gmail.com",
+      "id": 19
+    }
+  ]
+}
